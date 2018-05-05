@@ -1,37 +1,10 @@
 ## Welcome to Minecraft Bot
 
+**About**
+
 This a Discord Bot and it uses commands that realte to [Minecraft™](https://minecraft.net/) by [Mojang©](https://www.mojang.com/)
-![Minecraft](https://minecraft.net/static/pages/img/index-hero-og.088fb7996b03.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Markdown
+## Markdown - Ignore
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
