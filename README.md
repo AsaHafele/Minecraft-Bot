@@ -4,10 +4,6 @@
 
 This a Discord Bot and it uses commands that realte to [Minecraft™](https://minecraft.net/) by [Mojang©](https://www.mojang.com/)
 
-## Markdown - Ignore
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
